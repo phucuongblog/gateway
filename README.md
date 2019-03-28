@@ -1,2 +1,2 @@
-# gateway
-GateWay - My last project here. See full demo at: 
+# Gateway
+GateWay - My last project here.
